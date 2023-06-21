@@ -1,0 +1,237 @@
+{
+    "user":[
+        {
+            "employeeID": "",
+            "firstName": "Malva",
+            "lastName": "Pudding",
+            "email": "mpuddiny@gmail.com",
+            "password": "",
+            "type": "",
+            "branchName": "Pimville Square Shoprite",
+            "department": "Marchendizer",
+            "ranking": "4 year",
+            "productivity": "Good Progress,good customer care giver",
+            "efficiency": "",
+            "experience": "worked 2 years as Marchendise in wholesale",
+            "AreasOfImprovement": [
+                {
+                    "improvements": "",
+                    "compliments": "Good work ethics",
+                    "awards": "Best employee of the month April 2023"
+                }
+            ],
+            "photo": "",
+            "posts": [
+                {
+                    "time": "",
+                    "date": "",
+                    "caption": "",
+                    "image": ""
+                }
+            ]
+        },
+        {"employeeID": "",
+        "firstName": "Katleho",
+        "lastName": "KatMaster",
+        "email": "katmaster@gmail.com",
+        "password": "",
+        "type": "",
+        "branchName": "Maponya mall pick n pay",
+        "department": "manager",
+        "ranking": "5 year",
+        "productivity": "Good Progress",
+        "efficiency": "",
+        "experience": "worked 8 years as Marchendise in shoprite",
+        "AreasOfImprovement": [
+            {
+                "improvements": "",
+                "compliments": "Good work ethics",
+                "awards": "Best local manager of the year 2023"
+            }
+        ],
+        "photo": "",
+        "posts": [
+            {
+                "time": "",
+                "date": "",
+                "caption": "",
+                "image": ""
+            }
+        ]
+    },
+    {"employeeID": "",
+    "firstName": "Sabelo",
+    "lastName": "Sabzero",
+    "email": "sabzero@gmail.com",
+    "password": "",
+    "type": "",
+    "branchName": "Pimville Square Shoprite",
+    "department": "Manager",
+    "ranking": "7 year",
+    "productivity": "Good managing skills",
+    "efficiency": "",
+    "experience": "worked 9 years as Marchendise in shoprite",
+    "AreasOfImprovement": [
+        {
+            "improvements": "",
+            "compliments": "Good work ethics",
+            "awards": "Best Manager of the 2023"
+        }
+    ],
+    "photo": "",
+    "posts": [
+        {
+            "time": "",
+            "date": "",
+            "caption": "",
+            "image": ""
+        }
+    ]
+},
+{ "employeeID": "",
+"firstName": "Sbusiso",
+"lastName": "Maleba",
+"email": "maleba@gmail.com",
+"password": "",
+"type": "",
+"branchName": "Pimville Square Shoprite",
+"department": "Marchendizer",
+"ranking": "3 year",
+"productivity": "good customer care giver",
+"efficiency": "",
+"experience": "worked 1 year as Marchendise in wholesale",
+"AreasOfImprovement": [
+    {
+        "improvements": "",
+        "compliments": "Good work ethics",
+        "awards": "Best employee by customer service dep"
+    }
+],
+"photo": "",
+"posts": [
+    {
+        "time": "",
+        "date": "",
+        "caption": "",
+        "image": ""
+    }
+]
+},
+{ "employeeID": "",
+"firstName": "Thando",
+"lastName": "Mabuza",
+"email": "mabuza@gmail.com",
+"password": "",
+"type": "",
+"branchName": "Pimville Square Shoprite",
+"department": "cashier",
+"ranking": "3 year",
+"productivity": "Good Progress,good customer care giver",
+"efficiency": "",
+"experience": "worked 4 years as Marchendise in pick n pay",
+"AreasOfImprovement": [
+    {
+        "improvements": "",
+        "compliments": "Good work ethics",
+        "awards": "Best cashier employee of the month April 2023"
+    }
+],
+"photo": "",
+"posts": [
+    {
+        "time": "",
+        "date": "",
+        "caption": "",
+        "image": ""
+    }
+]
+},
+{ "employeeID": "",
+"firstName": "Lerato",
+"lastName": "Masera",
+"email": "lmasera@gmail.com",
+"password": "",
+"type": "",
+"branchName": "Sita",
+"department": "software developer",
+"ranking": "4 year/ intermediate",
+"productivity": "progresive developer started as intern",
+"efficiency": "",
+"experience": "",
+"AreasOfImprovement": [
+    {
+        "improvements": "coding skills",
+        "compliments": "Good work ethics",
+        "awards": ""
+    }
+],
+"photo": "",
+"posts": [
+    {
+        "time": "",
+        "date": "",
+        "caption": "",
+        "image": ""
+    }
+]
+},
+{ "employeeID": "",
+"firstName": "Pulane",
+"lastName": "Disema",
+"email": "mpuddpdisemainy@gmail.com",
+"password": "",
+"type": "",
+"branchName": "Pimville Square Shoprite",
+"department": "Marchendizer",
+"ranking": "4 year",
+"productivity": "Good Progress,good customer care giver",
+"efficiency": "",
+"experience": "worked 2 years as Marchendise in wholesale",
+"AreasOfImprovement": [
+    {
+        "improvements": "",
+        "compliments": "Good work ethics",
+        "awards": "Best employee of the month April 2023"
+    }
+],
+"photo": "",
+"posts": [
+    {
+        "time": "",
+        "date": "",
+        "caption": "",
+        "image": ""
+    }
+]
+},
+{ "employeeID": "",
+"firstName": "Ntokozo",
+"lastName": "Monapo",
+"email": "nmonapo@gmail.com",
+"password": "",
+"type": "",
+"branchName": "Sita",
+"department": "software project manager",
+"ranking": "4 year/senior",
+"productivity": "Good Progress,good customer care giver",
+"efficiency": "",
+"experience": "5 years as software tester in Sita, 7 years as developer at Sita",
+"AreasOfImprovement": [
+    {
+        "improvements": "",
+        "compliments": "Good work ethics",
+        "awards": ""
+    }
+],
+"photo": "",
+"posts": [
+    {
+        "time": "",
+        "date": "",
+        "caption": "",
+        "image": ""
+    }
+]
+}
+    ]
+    }
